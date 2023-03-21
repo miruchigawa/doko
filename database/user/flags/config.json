@@ -1,0 +1,6 @@
+[
+  {"name": "us", "img": "./database/user/flags/folder/united-states.png"},
+  {"name": "id", "img": "./database/user/flags/folder/indonesia.png"},
+  {"name": "kr", "img": "./database/user/flags/folder/south-korea.png"},
+  {"name": "jp", "img": "./database/user/flags/folder/japan.png"}
+]

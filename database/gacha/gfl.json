@@ -1,0 +1,12 @@
+[  
+  { "id": 1, "item_name": "gfl", "name": "M4A1", "price": 8, "rarity": 2, "img": "./assets/images/gfl/M4A1.png" },
+  { "id": 2, "item_name": "gfl", "name": "M16A1", "price": 16, "rarity": 3, "img": "./assets/images/gfl/M16A1.png" },
+  { "id": 3, "item_name": "gfl", "name": "ST AR-15", "price": 30, "rarity": 4, "img": "./assets/images/gfl/ST-AR-15.png" },
+  { "id": 4, "item_name": "gfl", "name": "AK-47", "price": 8, "rarity": 2, "img": "./assets/images/gfl/AK-47.png" },
+  { "id": 6, "item_name": "gfl", "name": "Type 56-1", "price": 30, "rarity": 4, "img": "./assets/images/gfl/Type-56-1.png" },
+  { "id": 7, "item_name": "gfl", "name": "FAMAS", "price": 8, "rarity": 2, "img": "./assets/images/gfl/FAMAS.png" },
+  { "id": 8, "item_name": "gfl", "name": "SIG-550", "price": 16, "rarity": 3, "img": "./assets/images/gfl/SIG-550.png" },
+  { "id": 9, "item_name": "gfl", "name": "OTs-12", "price": 30, "rarity": 4, "img": "./assets/images/gfl/OTs-12.png" },
+  { "id": 10, "item_name": "gfl", "name": "UMP45", "price": 8, "rarity": 2, "img": "./assets/images/gfl/UMP45.png" },
+  { "id": 11, "item_name": "gfl", "name": "UMP9", "price": 7, "rarity": 1, "img": "./assets/images/gfl/UMP9.png" }
+]

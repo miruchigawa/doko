@@ -1,0 +1,6 @@
+{
+      duration: 10000,
+      time: 0,
+      isCooldown: false,
+      attempt: 1
+    }
